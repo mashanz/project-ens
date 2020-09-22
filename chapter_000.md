@@ -47,3 +47,11 @@ I hope ftl is activate before it hit, but for the computer calculation it fill h
 it is dark planet, it following my ship and got energy from previous burst, and it about to explode, it explode and my ftl engine reacivating, 
 
 lost, i dont remember after that.
+
+<hr/>
+<center>
+
+[Prvious]() | [TOC](https://github.com/mashanz/project-ens/blob/master/README.md) | [NEXT](https://github.com/mashanz/project-ens/blob/master/chapter_001.md) 
+
+</center>
+<hr/>
