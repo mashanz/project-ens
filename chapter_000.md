@@ -50,8 +50,8 @@ lost, i dont remember after that.
 
 <hr/>
 <p align="center">
-  
-[Prvious]() | [TOC](https://github.com/mashanz/project-ens/blob/master/README.md) | [NEXT](https://github.com/mashanz/project-ens/blob/master/chapter_001.md) 
-
+  <a href="#">Prvious</a> |
+  <a href="https://github.com/mashanz/project-ens/blob/master/README.md">TOC</a> |
+  <a href="https://github.com/mashanz/project-ens/blob/master/chapter_001.md">Next</a>
 </p>
 <hr/>
