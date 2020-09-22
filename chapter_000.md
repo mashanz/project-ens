@@ -49,9 +49,9 @@ it is dark planet, it following my ship and got energy from previous burst, and 
 lost, i dont remember after that.
 
 <hr/>
-<center>
+<p align="center">
 
 [Prvious]() | [TOC](https://github.com/mashanz/project-ens/blob/master/README.md) | [NEXT](https://github.com/mashanz/project-ens/blob/master/chapter_001.md) 
 
-</center>
+</p>
 <hr/>
